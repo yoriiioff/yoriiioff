@@ -7,5 +7,5 @@
 - ⚡Fun fact: I don't know how i know.
 - 👌My site: https://yoroff.com
 
-### I know these languages...
+### I know...
 [![I know...](https://skillicons.dev/icons?i=adonis,ae,arch,au,blender,cpp,cmake,js,html,css,php,discord,bots,dotnet,ps,unity,vscode,windows)](https://skillicons.dev)
