@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on yoomessages;
-- 🌱 I’m currently learning c++;
+- 🔭 I’m currently not work;
+- 🌱 I’m currently learning java/c++;
 - 📫 How to reach me: discord @yoriiioff;
 - 😄 Pronouns: he/him;
 - ⚡Fun fact: I don't know how i know.
